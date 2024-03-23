@@ -1,7 +1,7 @@
 <h1> Oii ! Eu sou a Glauciene Luminato</h1>
 - 👀 I’m interested in desenvolvimento web no momento.</br>
 - 🌱 I’m currently learning: React.</br>
-- 💞️ I’m looking to collaborate on programa voluntário para desenvolvedores júnior.</br>
+- 💞️ I’m looking to collaborate on programa voluntário para desenvolvedores júnior.</br>.      
 - 📫 How to reach me glaucienedesousaluminato@gmail.com </br>
 - 😄 Pronouns: Ela/Dela </br></br></br></br>
 
